@@ -19,6 +19,12 @@ iex(1)> (1 + 2) / 3 + 4 * 5
 21.0
 ```
 
+## How to run your source code
+
+1. create a file with `.exs` extension (sample.exs)
+
+2. run `elixir` command (elixir sample.exs)
+
 ## References
 
 - [Introduction to Elixir](https://dev.to/gumi/elixir-01--2585)
